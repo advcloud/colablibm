@@ -3,7 +3,7 @@ setup(
     name="colablibm",
     version="1.0",
     packages=['colablibm'],
-    install_requires=['ffmpeg-python', 'mediapipe', 'pillow', 'numpy'],
+    install_requires=['ffmpeg-python', 'mediapipe', 'pillow', 'numpy', 'pyTelegramBotAPI'],
 
     # metadata to display on PyPI
     author="claireye",
